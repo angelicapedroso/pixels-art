@@ -1,0 +1,19 @@
+#yellow {
+  background-color: yellow;
+}
+#red {
+  background-color: red;
+}
+#green {
+  background-color: green;
+}
+#purple {
+  background-color: purple;
+}
+
+.color {
+  border: 1px solid black;
+  height: 50px;
+  width: 50px;
+  display: inline-block;
+}
