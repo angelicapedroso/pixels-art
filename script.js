@@ -13,7 +13,7 @@ for (let index = 1; index <= size; index += 1) {
   }
  }
 }
-pixelFrame();
+pixelFrame(); 
 
 
 
